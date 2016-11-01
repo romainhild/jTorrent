@@ -1,0 +1,26 @@
+{
+  "name": "jtorrent",
+  "description": "A client for rtorrent",
+  "main": "app.js",
+  "authors": [
+    "Romain Hild"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node.js",
+    "rtorrent"
+  ],
+  "homepage": "https://github.com/romainhild/jTorrent",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
